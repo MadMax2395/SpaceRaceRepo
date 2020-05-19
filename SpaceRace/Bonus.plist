@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>oxygen</key>
+	<dict>
+		<key>imageName</key>
+		<string>zombie1</string>
+	</dict>
+	<key>fuel</key>
+	<dict>
+		<key>imageName</key>
+		<string></string>
+	</dict>
+	<key>kitOxygen</key>
+	<dict>
+		<key>imageName</key>
+		<string></string>
+	</dict>
+	<key>kitFuel</key>
+	<dict>
+		<key>imageName</key>
+		<string></string>
+	</dict>
+	<key>bonusBoundaries</key>
+	<dict>
+		<key>imageName</key>
+		<string></string>
+	</dict>
+</dict>
+</plist>

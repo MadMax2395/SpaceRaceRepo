@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Planet5</key>
+	<dict>
+		<key>Levels</key>
+		<dict>
+			<key>level1</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the SPUTNIK1</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level2</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level3</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level4</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level5</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level6</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level7</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+		</dict>
+		<key>description</key>
+		<string>Fly me to the moon let me play among the stars </string>
+		<key>name</key>
+		<string>saturn</string>
+		<key>imageName</key>
+		<string>saturn</string>
+		<key>numberOfLevels</key>
+		<integer>7</integer>
+	</dict>
+	<key>Planet4</key>
+	<dict>
+		<key>Levels</key>
+		<dict>
+			<key>level1</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the SPUTNIK1</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level2</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level3</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level4</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level5</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level6</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level7</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+		</dict>
+		<key>description</key>
+		<string>Fly me to the moon let me play among the stars </string>
+		<key>name</key>
+		<string>europa</string>
+		<key>imageName</key>
+		<string>europa</string>
+		<key>numberOfLevels</key>
+		<integer>7</integer>
+	</dict>
+	<key>Planet3</key>
+	<dict>
+		<key>Levels</key>
+		<dict>
+			<key>level1</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the SPUTNIK1</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level2</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level3</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level4</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level5</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level6</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level7</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+		</dict>
+		<key>description</key>
+		<string>Fly me to the moon let me play among the stars </string>
+		<key>name</key>
+		<string>jupiter</string>
+		<key>imageName</key>
+		<string>jupiter</string>
+		<key>numberOfLevels</key>
+		<integer>7</integer>
+	</dict>
+	<key>Planet2</key>
+	<dict>
+		<key>Levels</key>
+		<dict>
+			<key>level1</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the SPUTNIK1</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level2</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level3</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level4</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level5</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level6</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level7</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+		</dict>
+		<key>description</key>
+		<string>Fly me to the moon let me play among the stars </string>
+		<key>name</key>
+		<string>mars</string>
+		<key>imageName</key>
+		<string>mars</string>
+		<key>numberOfLevels</key>
+		<integer>7</integer>
+	</dict>
+	<key>Planet0</key>
+	<dict>
+		<key>Levels</key>
+		<dict>
+			<key>level1</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the SPUTNIK1</string>
+				<key>character</key>
+				<string>laika</string>
+			</dict>
+			<key>level2</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>ham</string>
+			</dict>
+			<key>level3</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>jurij</string>
+			</dict>
+			<key>level4</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>alex</string>
+			</dict>
+			<key>level5</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>valentine</string>
+			</dict>
+			<key>level6</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>leonov</string>
+			</dict>
+			<key>level7</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>neil</string>
+			</dict>
+		</dict>
+		<key>description</key>
+		<string>The beautiful and prosper planet of the humans</string>
+		<key>name</key>
+		<string>earth</string>
+		<key>imageName</key>
+		<string>earth</string>
+		<key>numberOfLevels</key>
+		<integer>7</integer>
+	</dict>
+	<key>Planet1</key>
+	<dict>
+		<key>Levels</key>
+		<dict>
+			<key>level1</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the SPUTNIK1</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level2</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level3</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level4</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level5</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level6</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+			<key>level7</key>
+			<dict>
+				<key>objectImage</key>
+				<string>sputnik</string>
+				<key>missionName</key>
+				<string>Repair the xxx</string>
+				<key>character</key>
+				<string>unknown</string>
+			</dict>
+		</dict>
+		<key>description</key>
+		<string>Fly me to the moon let me play among the stars </string>
+		<key>name</key>
+		<string>moon</string>
+		<key>imageName</key>
+		<string>moon</string>
+		<key>numberOfLevels</key>
+		<integer>7</integer>
+	</dict>
+</dict>
+</plist>
